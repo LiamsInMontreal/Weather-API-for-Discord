@@ -1,6 +1,11 @@
 # Weather-API-for-Discord
 This is a Discord API that provides weather information for US locations by ZIP code and Canadian cities by name. The bot uses the [Weather.gov API](https://www.weather.gov/documentation/services-web-api) for US weather forecasts and the [OpenWeatherMap API](https://openweathermap.org/api) for Canadian weather forecasts.
 
+# NOTE:
+In order for your bot to work, you MUST MUST MUST MUST
+# MUST
+have the bot tag and "Use Slash Commands" active [under the OAuth2 section of your application. This is where you would go to create a bot invite link.](https://i.imgur.com/9kqwRnZ.png)
+
 ## Features
 
 - Get weather forecast for a US location by ZIP Code.
